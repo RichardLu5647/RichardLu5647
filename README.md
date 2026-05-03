@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Richard 👋
 
-<!--
-**RichardLu5647/RichardLu5647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student focused on embedded systems, FPGA design, and signal processing.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- C, C++, Python, MATLAB
+- SystemVerilog / VHDL
+- FPGA Design & Simulation (Xcelium, Vivado)
+- Signal Processing & SDR Systems
+- Debugging & Hardware Validation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- FPGA UART-CORDIC System – hardware data pipeline with UART, FSM, RAM, and CORDIC processing  
+- Cache Design in VHDL – 2-way set associative cache with LRU and FSM control  
+- Binary Tree Structures – BST, AVL, and Splay tree implementations in C++
+
+## 📫 Connect
+- LinkedIn: www.linkedin.com/in/richard-lu-4327a4303
